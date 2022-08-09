@@ -4,9 +4,7 @@ Este projeto foi inicializado com [Create React App](https://github.com/facebook
 
 ## Sobre
 
-Este repositório foi criado para mostrar como podemos criar uma aplicação frontend com componentes reutilizáveis.
-
-Vamos criar um aplicativo usando a API pública do github.
+Vamos criar um aplicativo usando a API pública do Via Cep.
 
 ### Características
 
