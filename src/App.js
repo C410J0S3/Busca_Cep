@@ -24,7 +24,7 @@ const Cep = styled.div`
   align-items: center;
 `;
 
-const CepInput = styled.input.attrs({ type: 'text' })`
+const CepInput = styled.input.attrs({ type: "text", placeholder: "Digite o Cep..." })`
   width:200px;
   height: 30px;
   background-color: #000000;
@@ -111,8 +111,7 @@ const Footer = styled.footer`
       <img src={Planet} alt='planet'/>
 
       <Cep className='cepInput' >
-        <CepInput placeholder='Digite o Cep...'
-        value={input}
+        <CepInput value={input}
         onChange={(event) => setInput(event.target.value) }
         />
 
