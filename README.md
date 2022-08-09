@@ -14,6 +14,7 @@ Vamos criar um aplicativo usando a API pública do Via Cep.
 ### Bibliotecas
 
 - [axios](https://www.npmjs.com/package/axios)
+- [styled-components](https://styled-components.com/)
 
 ### Visualização
 
